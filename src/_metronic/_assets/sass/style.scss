@@ -1,0 +1,37 @@
+@import './colors.scss';
+
+.bg-targetBlue {
+  background-color: $targetBlue;
+}
+
+.text-primaryBlue {
+  color: $primaryBlue;
+}
+.text-targetBlue {
+  color: $targetBlue;
+}
+
+.cBadge-primary {
+  color: $azureBlue;
+  background-color: $celeste;
+}
+
+.cBadge-warning {
+  color: $schoolBus;
+  background-color: $peach;
+}
+
+.cBadge-success {
+  color: $jungleGreen;
+  background-color: $smithApple;
+}
+
+.cBadge-danger {
+  color: $jazzbarry;
+  background-color: $carnation;
+}
+
+.cBadge-info {
+  color: $truepurple;
+  background-color: $mauve;
+}

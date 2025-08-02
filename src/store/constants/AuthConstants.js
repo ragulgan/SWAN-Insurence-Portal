@@ -1,0 +1,29 @@
+export const SIGNIN_INIT = 'SIGNIN_INIT'
+export const SIGNIN_SUCCESS = 'SIGNIN_SUCCESS'
+export const SIGNIN_FAILED = 'SIGNIN_FAILED'
+export const SIGNIN_CLEAR = 'SIGNIN_CLEAR'
+
+export const SIGNOUT_INIT = 'SIGNOUT_INIT'
+export const SIGNOUT_SUCCESS = 'SIGNOUT_SUCCESS'
+export const SIGNOUT_FAILED = 'SIGNOUT_FAILED'
+
+export const SHOW_LOADING = 'SHOW_LOADING'
+export const AUTH_TOKEN = 'auth_token'
+export const USER_AUTHENTICATED = 'USER_AUTHENTICATED'
+export const SHOW_AUTH_MESSAGE = 'SHOW_AUTH_MESSAGE'
+export const USER_AUTH_CLEAR = 'USER_AUTH_CLEAR'
+
+export const SOMETHING_WRONG = 'Something went wrong. Please try again later!'
+export const LOGIN_SUCCESS = 'Login Successfully'
+
+export const TRIGGER_OTP_INIT = 'TRIGGER_OTP_INIT'
+export const TRIGGER_OTP_SUCCESS = 'TRIGGER_OTP_SUCCESS'
+export const TRIGGER_OTP_FAILED = 'TRIGGER_OTP_FAILED'
+
+export const SET_OTP_INIT = 'SET_OTP_INIT'
+export const SET_OTP_SUCCESS = 'SET_OTP_SUCCESS'
+export const SET_OTP_FAILED = 'SET_OTP_FAILED'
+
+export const RESET_PASSWORD_INIT = 'RESET_PASSWORD_INIT'
+export const RESET_PASSWORD_SUCCESS = 'RESET_PASSWORD_SUCCESS'
+export const RESET_PASSWORD_FAILED = 'RESET_PASSWORD_FAILED'

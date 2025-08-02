@@ -1,0 +1,6 @@
+export { default as sidebar_bg } from '../_metronic/_assets/img/blue_background_inner.png'
+export { default as auth_sidebar } from '../_metronic/_assets/img/bg_auth_sidebar.png'
+export { default as auth_bg } from '../_metronic/_assets/img/bg_auth.png'
+export { default as logo_dark } from '../_metronic/_assets/img/logo-dark.svg'
+export { default as logo_light } from '../_metronic/_assets/img/swan_logo_light.png'
+export { default as logo_one } from '../_metronic/_assets/img/swan_logo_one.png'

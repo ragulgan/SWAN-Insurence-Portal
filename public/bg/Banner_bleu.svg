@@ -1,0 +1,9 @@
+<svg width="346" height="1024" viewBox="0 0 346 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="346" height="1024" fill="#00B8CE"/>
+<path d="M345.5 355.5L0.5 62V0.5H345.5V355.5Z" fill="#01A8BC"/>
+<path d="M345.5 839.5L280.5 738.5L89.5 1024.5H345.5V839.5Z" fill="#01A8BC"/>
+<path d="M345 974.5L295.5 1024H345V974.5Z" fill="#007A89"/>
+<g style="mix-blend-mode:multiply">
+<path d="M36.5 0.5H0.5V95.5L36.5 0.5Z" fill="#007A89"/>
+</g>
+</svg>

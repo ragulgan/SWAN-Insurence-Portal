@@ -1,0 +1,8 @@
+export const STAFF_INIT = 'STAFF_INIT'
+export const STAFF_SUCCESS = 'STAFF_SUCCESS'
+export const STAFF_ERROR = 'STAFF_ERROR'
+
+export const PROFILE_INIT = 'PROFILE_INIT'
+export const PROFILE_SUCCESS = 'PROFILE_SUCCESS'
+export const PROFILE_ERROR = 'PROFILE_ERROR'
+export const PROFILE_CLEAR = 'PROFILE_CLEAR'

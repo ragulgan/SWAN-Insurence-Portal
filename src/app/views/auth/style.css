@@ -1,0 +1,11 @@
+.sfl__login_aside{
+    width: 240px;
+}
+.sfl__btn button{
+    background:#666666;
+    color:#fff;
+}
+.sfl__btn button:hover{
+    background:#002f87;
+    color:#fff;
+}
